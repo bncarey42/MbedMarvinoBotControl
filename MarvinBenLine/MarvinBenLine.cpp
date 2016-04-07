@@ -1,4 +1,5 @@
 //This program has been adapted by Ben Carey for CSci 1410-60 at Saint Paul College, Saint Paul Minnesota December of 2015
+//  to see this program in action view the following link: https://www.youtube.com/watch?v=sy8xRlEwfgg
 
 #include <mbed.h>
 #include <stdlib.h>
